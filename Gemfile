@@ -16,6 +16,9 @@ gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
+gem 'haml', '~> 5.0', '>= 5.0.1'
+gem 'simple_form', '~> 3.5'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
