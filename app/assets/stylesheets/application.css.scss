@@ -77,7 +77,8 @@ nav {
 #edit_page {
 	.current_image {
 		img {
-
+			max-width: 260;
+			max-height: 180;
 			display: block;
 			margin: 0 auto;
 		}
